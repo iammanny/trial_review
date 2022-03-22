@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: #d1d8e0;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+#survey-form {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.row-tab {
+    display: block;
+    padding-top: 20px;
+}
+
+button {
+    background-color: rgb(173, 166, 166);
+    border: 1px soild #060b11;
+    border-radius: 2px;
+    padding: 10px;
+    width: 20%;
+}
+
+
+
+
+
+
+
